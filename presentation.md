@@ -1,11 +1,11 @@
 ---
 title: bpmn-js Token Simulation Internals - An update on recent improvements.
 description: This slide deck shedds some light on recent improvements in the  bpmn-js-token-simulation tool.
-url: https://cdn.statically.io/gh/nikku/2021-token-simulation-internals/master/presentation.html
-preview_image: https://cdn.statically.io/gh/nikku/2021-token-simulation-internals/master/preview.png
+origin: https://github.com/nikku/2021-token-simulation-internals
+image: https://cdn.statically.io/gh/nikku/2021-token-simulation-internals/main/preview.png
 author: Nico Rehwaldt
 authorTwitter: '@nrehwaldt'
-type: website
+type: article
 tags:
   - bpmn-js
   - token-simulation
