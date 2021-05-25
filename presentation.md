@@ -126,7 +126,6 @@ simulator.signal({
 
 ```javascript
 const processElement = elementRegistry.get('Process');
-const startEventElement = elementRegistry.get('StartEvent');
 
 // active instances in <Process>
 const runningScopes = simulator.findScopes({
